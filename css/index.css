@@ -1,0 +1,83 @@
+#nav {
+    background-color: lightgreen;
+}
+
+#section1 {
+    background-color: green;
+    color: white;
+    padding: 100px;
+}
+
+#section2 {
+    background-color: red;
+    color: white;
+    padding: 100px;
+}
+
+#img {
+    height: 200px;
+    width: 200px;
+}
+
+#a {
+    background-color: red;
+    color: white;
+    border-color: white;
+}
+
+#a:hover {
+    background-color: white;
+    color: red;
+    border-color: red;
+}
+
+#section3 {
+    background-color: blue;
+    color: white;
+    padding: 100px;
+}
+
+#img2 {
+    height: 200px;
+    width: 200px;
+}
+
+#a2 {
+    background-color: blue;
+    color: white;
+    border-color: white;
+}
+
+#a2:hover {
+    background-color: white;
+    color: blue;
+    border-color: blue;
+}
+
+#section4 {
+    background-color: yellow;
+    color: black;
+    padding: 100px;
+}
+
+#img3 {
+    height: 200px;
+    width: 200px;
+}
+
+#a3 {
+    background-color: yellow;
+    color: black;
+    border-color: black;
+}
+
+#a3:hover {
+    background-color: black;
+    color: yellow;
+    border-color: yellow;
+}
+
+.footer {
+    background-color: lightgreen;
+    padding: 10px;
+}
