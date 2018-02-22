@@ -81,3 +81,13 @@
     background-color: lightgreen;
     padding: 10px;
 }
+
+#img4 {
+    height: 400px;
+    width: 300px;
+}
+
+.list-group > .list-group-item {
+    background-color: blue;
+    border: none;
+}
