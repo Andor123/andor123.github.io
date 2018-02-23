@@ -14,7 +14,7 @@
     padding: 100px;
 }
 
-#img {
+#img, #img2, #img3 {
     height: 200px;
     width: 200px;
 }
@@ -37,11 +37,6 @@
     padding: 100px;
 }
 
-#img2 {
-    height: 200px;
-    width: 200px;
-}
-
 #a2 {
     background-color: blue;
     color: white;
@@ -60,18 +55,13 @@
     padding: 100px;
 }
 
-#img3 {
-    height: 200px;
-    width: 200px;
-}
-
-#a3 {
+#a3, #a4 {
     background-color: yellow;
     color: black;
     border-color: black;
 }
 
-#a3:hover {
+#a3:hover, #a4:hover {
     background-color: black;
     color: yellow;
     border-color: yellow;
@@ -90,4 +80,9 @@
 .list-group > .list-group-item {
     background-color: blue;
     border: none;
+}
+
+#img5 {
+    width: 500px;
+    height: 300px;
 }
