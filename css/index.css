@@ -55,13 +55,13 @@
     padding: 100px;
 }
 
-#a3, #a4 {
+#a3, #a4, #a5 {
     background-color: yellow;
     color: black;
     border-color: black;
 }
 
-#a3:hover, #a4:hover {
+#a3:hover, #a4:hover, #a5:hover {
     background-color: black;
     color: yellow;
     border-color: yellow;
@@ -82,7 +82,7 @@
     border: none;
 }
 
-#img5 {
+#img5, #img6 {
     width: 500px;
     height: 300px;
 }
