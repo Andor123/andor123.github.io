@@ -86,3 +86,7 @@
     width: 300px;
     height: 200px;
 }
+
+hr {
+    background-color: white;
+}
