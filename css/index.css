@@ -90,3 +90,7 @@
 hr {
     background-color: white;
 }
+
+hr.bold {
+    height: 5px;
+}
